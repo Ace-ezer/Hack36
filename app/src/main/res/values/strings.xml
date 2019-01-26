@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Notes maker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World</string>
+    <string name="speech_prompt">Say Something</string>
+    <string name="speech_not_supported">Your Device Does not support Speech to Text</string>
+    <string name="tap_on_mic">Please Tap on Mic</string>
+    <string name="action_save">Save</string>
+</resources>
